@@ -23,7 +23,7 @@ module.exports = {
         //Default options are for WP sites hosted on wordpress.com
         //For sites self hosted and other options check:
         //https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-source-wordpress
-        baseUrl: "ec5b6b2e.ngrok.io",
+        baseUrl: "sharp-bell-ec35b1.netlify.com",
         protocol: "https",
         hostingWPCOM: true,
         useACF: false,
